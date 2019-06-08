@@ -1,0 +1,15 @@
+{
+  "name": "funciones",
+  "version": "1.0.1",
+  "description": "Bonus Funciones",
+  "main": "index.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camilo Guerrero",
+  "license": "ISC"
+}
